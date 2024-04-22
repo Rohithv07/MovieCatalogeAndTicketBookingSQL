@@ -1,230 +1,251 @@
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Afghanistan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Albania');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Algeria');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('American Samoa');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Andorra');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Angola');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Anguilla');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Antarctica');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Antigua and Barbuda');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Argentina');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Armenia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Aruba');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Australia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Austria');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Azerbaijan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bahamas');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bahrain');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bangladesh');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Barbados');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Belarus');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Belgium');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Belize');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Benin');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bermuda');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bhutan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bosnia and Herzegovina');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Botswana');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bouvet Island');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Brazil');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('British Indian Ocean Territory');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Brunei Darussalam');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Bulgaria');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Burkina Faso');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Burundi');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cambodia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cameroon');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Canada');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cape Verde');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cayman Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Central African Republic');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Chad');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Chile');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('China');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Christmas Island');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cocos (Keeling) Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Colombia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Comoros');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Congo');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cook Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Costa Rica');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Croatia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cuba');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Cyprus');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Czech Republic');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Denmark');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Djibouti');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Dominica');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Dominican Republic');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Ecuador');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Egypt');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('El Salvador');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Equatorial Guinea');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Eritrea');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Estonia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Ethiopia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Falkland Islands (Malvinas)' ,'FK');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Faroe Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Fiji');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Finland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('France');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('French Guiana');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('French Polynesia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('French Southern Territories');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Gabon');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Gambia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Georgia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Germany');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Ghana');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Gibraltar');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Greece');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Greenland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Grenada');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guadeloupe');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guam');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guatemala');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guernsey');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guinea');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guinea-Bissau');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Guyana');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Haiti');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Heard Island and McDonald Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Holy See (Vatican City State)' ,'VA');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Honduras');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Hong Kong');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Hungary');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Iceland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('India');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Indonesia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Iran');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Iraq');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Ireland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Isle of Man');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Israel');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Italy');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Jamaica');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Japan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Jersey');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Jordan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Kazakhstan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Kenya');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Kiribati');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Kuwait');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Kyrgyzstan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Lao Peoples Democratic Republic');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Latvia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Lebanon');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Lesotho');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Liberia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Libya');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Liechtenstein');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Lithuania');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Luxembourg');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Macao');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Madagascar');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Malawi');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Malaysia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Maldives');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mali');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Malta');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Marshall Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Martinique');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mauritania');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mauritius');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mayotte');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mexico');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Monaco');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mongolia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Montenegro');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Montserrat');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Morocco');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Mozambique');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Myanmar');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Namibia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Nauru');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Nepal');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Netherlands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('New Caledonia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('New Zealand');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Nicaragua');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Niger');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Nigeria');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Niue');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Norfolk Island');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Northern Mariana Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Norway');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Oman');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Pakistan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Palau');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Panama');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Papua New Guinea');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Paraguay');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Peru');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Philippines');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Pitcairn');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Poland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Portugal');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Puerto Rico');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Qatar');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Romania');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Russian Federation');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Rwanda');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saint Kitts and Nevis');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saint Lucia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saint Martin (French part)' ,'MF');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saint Pierre and Miquelon');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saint Vincent and the Grenadines');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Samoa');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('San Marino');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sao Tome and Principe');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Saudi Arabia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Senegal');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Serbia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Seychelles');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sierra Leone');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Singapore');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sint Maarten (Dutch part)' ,'SX');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Slovakia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Slovenia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Solomon Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Somalia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('South Africa');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('South Georgia and the South Sandwich Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('South Sudan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Spain');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sri Lanka');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('State of Palestine');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sudan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('SuriCOUNTRY_NAME');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Svalbard and Jan Mayen');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Swaziland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Sweden');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Switzerland');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Syrian Arab Republic');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Tajikistan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Thailand');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Timor-Leste');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Togo');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Tokelau');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Tonga');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Trinidad and Tobago');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Tunisia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Turkey');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Turkmenistan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Turks and Caicos Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Tuvalu');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Uganda');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Ukraine');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('United Arab Emirates');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('United Kingdom');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('United States');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('United States Minor Outlying Islands');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Uruguay');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Uzbekistan');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Vanuatu');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Viet Nam');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Wallis and Futuna');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Western Sahara');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Yemen');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Zambia');
-INSERT INTO COUNTRY (COUNTRY_NAME) VALUES ('Zimbabwe');
+INSERT INTO COUNTRY (COUNTRY_ID, COUNTRY_NAME) VALUES
+(1, 'Andorra'),
+(2, 'United Arab Emirates'),
+(3, 'Afghanistan'),
+(4, 'Antigua and Barbuda'),
+(5, 'Anguilla'),
+(6, 'Albania'),
+(7, 'Armenia'),
+(8, 'Angola'),
+(9, 'Antarctica'),
+(10, 'Argentina'),
+(11, 'American Samoa'),
+(12, 'Austria'),
+(13, 'Australia'),
+(14, 'Aruba'),
+(15, 'Åland'),
+(16, 'Azerbaijan'),
+(17, 'Bosnia and Herzegovina'),
+(18, 'Barbados'),
+(19, 'Bangladesh'),
+(20, 'Belgium'),
+(21, 'Burkina Faso'),
+(22, 'Bulgaria'),
+(23, 'Bahrain'),
+(24, 'Burundi'),
+(25, 'Benin'),
+(26, 'Saint Barthélemy'),
+(27, 'Bermuda'),
+(28, 'Brunei'),
+(29, 'Bolivia'),
+(30, 'Bonaire'),
+(31, 'Brazil'),
+(32, 'Bahamas'),
+(33, 'Bhutan'),
+(34, 'Bouvet Island'),
+(35, 'Botswana'),
+(36, 'Belarus'),
+(37, 'Belize'),
+(38, 'Canada'),
+(39, 'Cocos [Keeling] Islands'),
+(40, 'Democratic Republic of the Congo'),
+(41, 'Central African Republic'),
+(42, 'Republic of the Congo'),
+(43, 'Switzerland'),
+(44, 'Ivory Coast'),
+(45, 'Cook Islands'),
+(46, 'Chile'),
+(47, 'Cameroon'),
+(48, 'China'),
+(49, 'Colombia'),
+(50, 'Costa Rica'),
+(51, 'Cuba'),
+(52, 'Cape Verde'),
+(53, 'Curacao'),
+(54, 'Christmas Island'),
+(55, 'Cyprus'),
+(56, 'Czech Republic'),
+(57, 'Germany'),
+(58, 'Djibouti'),
+(59, 'Denmark'),
+(60, 'Dominica'),
+(61, 'Dominican Republic'),
+(62, 'Algeria'),
+(63, 'Ecuador'),
+(64, 'Estonia'),
+(65, 'Egypt'),
+(66, 'Western Sahara'),
+(67, 'Eritrea'),
+(68, 'Spain'),
+(69, 'Ethiopia'),
+(70, 'Finland'),
+(71, 'Fiji'),
+(72, 'Falkland Islands'),
+(73, 'Micronesia'),
+(74, 'Faroe Islands'),
+(75, 'France'),
+(76, 'Gabon'),
+(77, 'United Kingdom'),
+(78, 'Grenada'),
+(79, 'Georgia'),
+(80, 'French Guiana'),
+(81, 'Guernsey'),
+(82, 'Ghana'),
+(83, 'Gibraltar'),
+(84, 'Greenland'),
+(85, 'Gambia'),
+(86, 'Guinea'),
+(87, 'Guadeloupe'),
+(88, 'Equatorial Guinea'),
+(89, 'Greece'),
+(90, 'South Georgia and the South Sandwich Islands'),
+(91, 'Guatemala'),
+(92, 'Guam'),
+(93, 'Guinea-Bissau'),
+(94, 'Guyana'),
+(95, 'Hong Kong'),
+(96, 'Heard Island and McDonald Islands'),
+(97, 'Honduras'),
+(98, 'Croatia'),
+(99, 'Haiti'),
+(100, 'Hungary'),
+(101, 'Indonesia'),
+(102, 'Ireland'),
+(103, 'Israel'),
+(104, 'Isle of Man'),
+(105, 'India'),
+(106, 'British Indian Ocean Territory'),
+(107, 'Iraq'),
+(108, 'Iran'),
+(109, 'Iceland'),
+(110, 'Italy'),
+(111, 'Jersey'),
+(112, 'Jamaica'),
+(113, 'Jordan'),
+(114, 'Japan'),
+(115, 'Kenya'),
+(116, 'Kyrgyzstan'),
+(117, 'Cambodia'),
+(118, 'Kiribati'),
+(119, 'Comoros'),
+(120, 'Saint Kitts and Nevis'),
+(121, 'North Korea'),
+(122, 'South Korea'),
+(123, 'Kuwait'),
+(124, 'Cayman Islands'),
+(125, 'Kazakhstan'),
+(126, 'Laos'),
+(127, 'Lebanon'),
+(128, 'Saint Lucia'),
+(129, 'Liechtenstein'),
+(130, 'Sri Lanka'),
+(131, 'Liberia'),
+(132, 'Lesotho'),
+(133, 'Lithuania'),
+(134, 'Luxembourg'),
+(135, 'Latvia'),
+(136, 'Libya'),
+(137, 'Morocco'),
+(138, 'Monaco'),
+(139, 'Moldova'),
+(140, 'Montenegro'),
+(141, 'Saint Martin'),
+(142, 'Madagascar'),
+(143, 'Marshall Islands'),
+(144, 'Macedonia'),
+(145, 'Mali'),
+(146, 'Myanmar [Burma]'),
+(147, 'Mongolia'),
+(148, 'Macao'),
+(149, 'Northern Mariana Islands'),
+(150, 'Martinique'),
+(151, 'Mauritania'),
+(152, 'Montserrat'),
+(153, 'Malta'),
+(154, 'Mauritius'),
+(155, 'Maldives'),
+(156, 'Malawi'),
+(157, 'Mexico'),
+(158, 'Malaysia'),
+(159, 'Mozambique'),
+(160, 'Namibia'),
+(161, 'New Caledonia'),
+(162, 'Niger'),
+(163, 'Norfolk Island'),
+(164, 'Nigeria'),
+(165, 'Nicaragua'),
+(166, 'Netherlands'),
+(167, 'Norway'),
+(168, 'Nepal'),
+(169, 'Nauru'),
+(170, 'Niue'),
+(171, 'New Zealand'),
+(172, 'Oman'),
+(173, 'Panama'),
+(174, 'Peru'),
+(175, 'French Polynesia'),
+(176, 'Papua New Guinea'),
+(177, 'Philippines'),
+(178, 'Pakistan'),
+(179, 'Poland'),
+(180, 'Saint Pierre and Miquelon'),
+(181, 'Pitcairn Islands'),
+(182, 'Puerto Rico'),
+(183, 'Palestine'),
+(184, 'Portugal'),
+(185, 'Palau'),
+(186, 'Paraguay'),
+(187, 'Qatar'),
+(188, 'Réunion'),
+(189, 'Romania'),
+(190, 'Serbia'),
+(191, 'Russia'),
+(192, 'Rwanda'),
+(193, 'Saudi Arabia'),
+(194, 'Solomon Islands'),
+(195, 'Seychelles'),
+(196, 'Sudan'),
+(197, 'Sweden'),
+(198, 'Singapore'),
+(199, 'Saint Helena'),
+(200, 'Slovenia'),
+(201, 'Svalbard and Jan Mayen'),
+(202, 'Slovakia'),
+(203, 'Sierra Leone'),
+(204, 'San Marino'),
+(205, 'Senegal'),
+(206, 'Somalia'),
+(207, 'Suriname'),
+(208, 'South Sudan'),
+(209, 'São Tomé and Príncipe'),
+(210, 'El Salvador'),
+(211, 'Sint Maarten'),
+(212, 'Syria'),
+(213, 'Swaziland'),
+(214, 'Turks and Caicos Islands'),
+(215, 'Chad'),
+(216, 'French Southern Territories'),
+(217, 'Togo'),
+(218, 'Thailand'),
+(219, 'Tajikistan'),
+(220, 'Tokelau'),
+(221, 'East Timor'),
+(222, 'Turkmenistan'),
+(223, 'Tunisia'),
+(224, 'Tonga'),
+(225, 'Turkey'),
+(226, 'Trinidad and Tobago'),
+(227, 'Tuvalu'),
+(228, 'Taiwan'),
+(229, 'Tanzania'),
+(230, 'Ukraine'),
+(231, 'Uganda'),
+(232, 'U.S. Minor Outlying Islands'),
+(233, 'United States'),
+(234, 'Uruguay'),
+(235, 'Uzbekistan'),
+(236, 'Vatican City'),
+(237, 'Saint Vincent and the Grenadines'),
+(238, 'Venezuela'),
+(239, 'British Virgin Islands'),
+(240, 'U.S. Virgin Islands'),
+(241, 'Vietnam'),
+(242, 'Vanuatu'),
+(243, 'Wallis and Futuna'),
+(244, 'Samoa'),
+(245, 'Kosovo'),
+(246, 'Yemen'),
+(247, 'Mayotte'),
+(248, 'South Africa'),
+(249, 'Zambia'),
+(250, 'Zimbabwe');
