@@ -57,4 +57,6 @@ CREATE TABLE ADDRESS(
     REFERENCES DISTRICT(DISTRICT_ID)
 );
 
-alter table country modify column COUNTRY_NAME varchar(80);
+alter table COUNTRY modify column COUNTRY_NAME varchar(80);
+
+ALTER TABLE DISTRICT RENAME CITIES;
